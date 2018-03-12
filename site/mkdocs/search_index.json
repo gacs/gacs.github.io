@@ -1,0 +1,44 @@
+{
+    "docs": [
+        {
+            "location": "/",
+            "text": "This site is currently under construction!\n\n\n\n\nGACS Working Group and GACS Beta\n\n\nGACS Beta is a multilingual thesaurus resulting from the work the GACS Working Group, active in 2014-2016 and formed by FAO, CABI, and the National Agricultural Library of the USDA (NAL). GACS Beta was released in May 2016.  \n\n\nStarting from April 2017, the work of the GACS Working Group continues as a Working Group within the umbrella of GADAN, with an enlarged membership. Currently, the basic foundational documents for the group are under development: a vision document, a technical workplan and a business model.\n\n\nThe GODAN/GACS Working Group - interoperability and semantics in agriculture\n\n\nThe starting point of the GACS working group in 2014 was that each organization was using different thesauri to index their documents, and so creating information silos, despite a large overlap in their contents. For this reason, they explored the possibility of identifying a set of concepts common to the three thesauri, for the purpose of improving semantic interoperability, facilitate search across databases, and achieve efficiencies of scale.\nNow, in 2017, the extended group of actors active in the production and use of agricultural data want to support a larger set of use cases related to data interoperability than (textual) documents indexing.\n\n\nGACS BETA\n\n\nThe process  - the three organization selected the 10,000 concepts most frequently used in each respective thesaurus. These concepts were algorithmically mapped, mappings were checked by hand, and inconsistencies were resolved by discussion.\n\n\nThe results - GACS Beta resulted in ~15,000 concepts with:\n\n    1. multilingual labels, definitions, scope notes\n\n    2. organized with thematic groups\n\n    3. URIs with namespace http://id.agrisemantics.org/gacs/\n\n    4. represented in RDF, using the thesauri specific vocabulary SKOS\n\n\nThe editorial policies for GACS Core follow best practices of modern thesaurus design, as reflected in ISO 25964, \"Thesauri and interoperability with other vocabularies\".  \n\n\nSee a few slides about GACS Beta (PDF)\n\n\nBrowse GACS Beta\n\n\nDonwload GACS Beta (zip, May 2016)\n\n\nRemarks\n\n\nProblems resulting from this integration process, such as overlapping labels, have been substantially fixed, though much detailed quality control remains to be done.\nThe biggest task remains that of specifying a common hierarchical structure for GACS Core and bringing its concepts, with hierarchical relations inherited from the source thesauri, into compliance.  \n\n\nGACS Beta may evolve with the addition of new concepts, or shrink slightly if core concepts are moved into GACS extension vocabularies, but the concepts listed in GACS Core Beta 3.1 are unlikely to disappear.",
+            "title": "Home"
+        },
+        {
+            "location": "/#this-site-is-currently-under-construction",
+            "text": "",
+            "title": "This site is currently under construction!"
+        },
+        {
+            "location": "/#gacs-working-group-and-gacs-beta",
+            "text": "GACS Beta is a multilingual thesaurus resulting from the work the GACS Working Group, active in 2014-2016 and formed by FAO, CABI, and the National Agricultural Library of the USDA (NAL). GACS Beta was released in May 2016.    Starting from April 2017, the work of the GACS Working Group continues as a Working Group within the umbrella of GADAN, with an enlarged membership. Currently, the basic foundational documents for the group are under development: a vision document, a technical workplan and a business model.",
+            "title": "GACS Working Group and GACS Beta"
+        },
+        {
+            "location": "/#the-godangacs-working-group-interoperability-and-semantics-in-agriculture",
+            "text": "The starting point of the GACS working group in 2014 was that each organization was using different thesauri to index their documents, and so creating information silos, despite a large overlap in their contents. For this reason, they explored the possibility of identifying a set of concepts common to the three thesauri, for the purpose of improving semantic interoperability, facilitate search across databases, and achieve efficiencies of scale.\nNow, in 2017, the extended group of actors active in the production and use of agricultural data want to support a larger set of use cases related to data interoperability than (textual) documents indexing.",
+            "title": "The GODAN/GACS Working Group - interoperability and semantics in agriculture"
+        },
+        {
+            "location": "/#gacs-beta",
+            "text": "The process  - the three organization selected the 10,000 concepts most frequently used in each respective thesaurus. These concepts were algorithmically mapped, mappings were checked by hand, and inconsistencies were resolved by discussion.  The results - GACS Beta resulted in ~15,000 concepts with: \n    1. multilingual labels, definitions, scope notes \n    2. organized with thematic groups \n    3. URIs with namespace http://id.agrisemantics.org/gacs/ \n    4. represented in RDF, using the thesauri specific vocabulary SKOS  The editorial policies for GACS Core follow best practices of modern thesaurus design, as reflected in ISO 25964, \"Thesauri and interoperability with other vocabularies\".    See a few slides about GACS Beta (PDF)",
+            "title": "GACS BETA"
+        },
+        {
+            "location": "/#browse-gacs-beta",
+            "text": "",
+            "title": "Browse GACS Beta"
+        },
+        {
+            "location": "/#donwload-gacs-beta-zip-may-2016",
+            "text": "",
+            "title": "Donwload GACS Beta (zip, May 2016)"
+        },
+        {
+            "location": "/#remarks",
+            "text": "Problems resulting from this integration process, such as overlapping labels, have been substantially fixed, though much detailed quality control remains to be done.\nThe biggest task remains that of specifying a common hierarchical structure for GACS Core and bringing its concepts, with hierarchical relations inherited from the source thesauri, into compliance.    GACS Beta may evolve with the addition of new concepts, or shrink slightly if core concepts are moved into GACS extension vocabularies, but the concepts listed in GACS Core Beta 3.1 are unlikely to disappear.",
+            "title": "Remarks"
+        }
+    ]
+}

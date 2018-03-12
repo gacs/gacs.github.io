@@ -1,0 +1,8 @@
+site_name: GACS
+repo_url: https://github.com/gacs/gacs.github.io
+
+pages:
+- Home: index.md
+#- Events: events.md
+
+theme: readthedocs
